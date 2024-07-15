@@ -1,10 +1,10 @@
 import React from "react";
-import Layout from "../components/layout.js";
+import Layout from "../components/layout";
 
 export default () => {
   return (
     <Layout>
-      <h1>Hello Gatsby!</h1>
+      <h1>Liên hệ</h1>
     </Layout>
   );
 };
